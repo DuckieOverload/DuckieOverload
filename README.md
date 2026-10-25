@@ -25,6 +25,21 @@ I'm a high school student who likes building things and then finding out how the
   </tr>
 </table>
 
+## Film
+
+<table>
+  <tr>
+    <td width="50%" valign="top"><a href="https://duckieoverload.github.io/assisteens/"><img src="assets/assisteens-documentary.jpg" alt="An Assisteens volunteer in an Assistance League t-shirt walking past holiday displays in the Thrift Shop"></a></td>
+    <td width="50%" valign="top">
+      <h3>Assisteens: Turning Teenagers into Citizens</h3>
+      <sub>DOCUMENTARY + RECRUITMENT SHORT &nbsp;&middot;&nbsp; ASSISTANCE LEAGUE OF GREATER SAN DIEGO</sub>
+      <p>A short documentary and a 30-second recruitment short about Assisteens, the teen-led volunteer group that helps provide school clothing, books and essentials to kids and families in San Diego.</p>
+      <p>I edited both in DaVinci Resolve, with Lua scripts that build each timeline, grade every shot and lay in the graphics and music.</p>
+      <p><a href="https://duckieoverload.github.io/assisteens/">Website</a> &nbsp;&middot;&nbsp; <a href="https://www.youtube.com/watch?v=oDFZpPf4yF0">Documentary</a> &nbsp;&middot;&nbsp; <a href="https://www.youtube.com/shorts/ZUe_yq9ZN1c">Short</a> &nbsp;&middot;&nbsp; <a href="https://github.com/DuckieOverload/assisteens">Repo</a></p>
+    </td>
+  </tr>
+</table>
+
 ## Why I love 3D printing
 
 <img src="assets/printer-bed.jpg" alt="Black glass sponge and grid lattice tiles on the bed of a Bambu Lab printer" width="380" align="right">
@@ -59,6 +74,10 @@ Next I want to try PETG and ABS.
 ![HTML](https://img.shields.io/badge/HTML-2d333b?style=flat-square&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-2d333b?style=flat-square&logo=css&logoColor=white)
 ![Vue](https://img.shields.io/badge/Vue-2d333b?style=flat-square&logo=vuedotjs&logoColor=white)
+&nbsp;
+![DaVinci Resolve](https://img.shields.io/badge/DaVinci_Resolve-2d333b?style=flat-square&logo=davinciresolve&logoColor=white)
+![Lua](https://img.shields.io/badge/Lua-2d333b?style=flat-square&logo=lua&logoColor=white)
+![ffmpeg](https://img.shields.io/badge/FFmpeg-2d333b?style=flat-square&logo=ffmpeg&logoColor=white)
 &nbsp;
 ![Blockbench](https://img.shields.io/badge/Blockbench-2d333b?style=flat-square&logo=blockbench&logoColor=white)
 ![MCreator](https://img.shields.io/badge/MCreator-2d333b?style=flat-square)
