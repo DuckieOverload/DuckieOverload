@@ -126,10 +126,10 @@ I also make Minecraft mods, datapacks and resource packs. They're all on [Modrin
       <p><a href="https://modrinth.com/project/duckies-minos-prime-creaking">Modrinth</a> &nbsp; <img src="https://img.shields.io/modrinth/dt/duckies-minos-prime-creaking?style=flat-square&amp;color=2d333b&amp;label=downloads&amp;logo=modrinth&amp;logoColor=white" alt="Modrinth downloads" align="right"></p>
     </td>
     <td width="50%" valign="top">
-      <a href="https://modrinth.com/project/minecraft-rw-citzen-id-drone-totem"><img src="assets/minecraft/drone-totem.jpg" alt="Minecraft RW Citzen-ID Drone totem screenshot"></a>
-      <h3><img src="assets/minecraft/drone-totem-icon.png" width="22" height="22" alt=""> Minecraft RW Citzen-ID Drone totem</h3>
+      <a href="https://modrinth.com/project/minecraft-rw-citzen-id-drone-totem"><img src="assets/minecraft/drone-totem.jpg" alt="Minecraft RW Citizen-ID Drone totem screenshot"></a>
+      <h3><img src="assets/minecraft/drone-totem-icon.png" width="22" height="22" alt=""> Minecraft RW Citizen-ID Drone totem</h3>
       <sub>RESOURCE PACK &nbsp;&middot;&nbsp; MINECRAFT 1.21&ndash;1.21.10</sub>
-      <p>A Resource pack that turns the totem of undying into the Citzen-ID Drone from Rain World.</p>
+      <p>A Resource pack that turns the totem of undying into the Citizen-ID Drone from Rain World.</p>
       <p><a href="https://modrinth.com/project/minecraft-rw-citzen-id-drone-totem">Modrinth</a> &nbsp; <img src="https://img.shields.io/modrinth/dt/minecraft-rw-citzen-id-drone-totem?style=flat-square&amp;color=2d333b&amp;label=downloads&amp;logo=modrinth&amp;logoColor=white" alt="Modrinth downloads" align="right"></p>
     </td>
   </tr>
