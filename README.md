@@ -9,10 +9,10 @@ I'm a high school student who likes building things and then finding out how the
     <td width="50%" valign="top">
       <a href="https://duckieoverload.github.io/vbr/"><img src="assets/vbr-presenting.jpg" alt="Emmet and teammates presenting their finite element analysis results"></a>
       <h3>Teaching Armor to Feel Its Own Damage</h3>
-      <sub>VBR RESEARCH CAMP 2026 &nbsp;&middot;&nbsp; SDSU YANG LAB</sub>
+      <sub>VBR RESEARCH CAMP 2026 &nbsp;&middot;&nbsp; DR. YANG (SDSU, VICTORY BELL LABS)</sub>
       <p><strong>Excellence in Engineering Design Award</strong></p>
-      <p>3D-printed lattices modeled on the deep-sea glass sponge and the mantis shrimp, in conductive carbon-black PLA and TPU. When the armor cracks, its electrical resistance changes, so the armor itself reports the damage.</p>
-      <p><a href="https://duckieoverload.github.io/vbr/">Website</a> &nbsp;&middot;&nbsp; <a href="https://duckieoverload.github.io/vbr/presentation/">Slides</a> &nbsp;&middot;&nbsp; <a href="https://duckieoverload.github.io/vbr/Bio-Inspired_Armor_Slides.pptx">PowerPoint</a> &nbsp;&middot;&nbsp; <a href="https://github.com/DuckieOverload/vbr">Repo</a></p>
+      <p>I was principal author on our team's research paper, published in The Journal of Future Science and Engineering, Nov 2026. We printed 3D-printed lattices modeled on the deep-sea glass sponge and the mantis shrimp, in conductive carbon-black PLA and TPU. When the armor cracks, its electrical resistance changes, so the armor itself reports the damage.</p>
+      <p><a href="https://journaloffuturescienceandengineering.org/index.php/JFSE/article/view/15/7">Paper</a> &nbsp;&middot;&nbsp; <a href="https://duckieoverload.github.io/vbr/">Website</a> &nbsp;&middot;&nbsp; <a href="https://duckieoverload.github.io/vbr/presentation/">Slides</a> &nbsp;&middot;&nbsp; <a href="https://duckieoverload.github.io/vbr/Bio-Inspired_Armor_Slides.pptx">PPTx</a> &nbsp;&middot;&nbsp; <a href="https://github.com/DuckieOverload/vbr">Repo</a></p>
     </td>
     <td width="50%" valign="top">
       <a href="https://duckieoverload.github.io/map/"><img src="assets/sophon-umap.jpg" alt="UMAP plots of jet embeddings before and after fine-tuning Sophon, with jet types separating into distinct clusters"></a>
@@ -20,7 +20,7 @@ I'm a high school student who likes building things and then finding out how the
       <sub>UC SAN DIEGO MAP &nbsp;&middot;&nbsp; SAN DIEGO SUPERCOMPUTER CENTER</sub>
       <p><strong>With Raunav Mendiratta, under Dr. Javier Duarte</strong></p>
       <p>Instead of training a jet tagger from scratch, we adapted Sophon, a foundation model pretrained on 188 jet types, to a 10-class task. It reached 99.1% of state-of-the-art accuracy with 1/60th of the trainable parameters.</p>
-      <p><a href="https://duckieoverload.github.io/map/">Website</a> &nbsp;&middot;&nbsp; <a href="https://duckieoverload.github.io/map/presentation/">Slides</a> &nbsp;&middot;&nbsp; <a href="https://duckieoverload.github.io/map/Sophon_TL.pdf">Poster</a> &nbsp;&middot;&nbsp; <a href="https://github.com/DuckieOverload/transferlearningsophon">Code</a></p>
+      <p><a href="https://duckieoverload.github.io/map/Sophon_TL.pdf">Poster</a> &nbsp;&middot;&nbsp; <a href="https://duckieoverload.github.io/map/">Website</a> &nbsp;&middot;&nbsp; <a href="https://duckieoverload.github.io/map/presentation/">Slides</a> &nbsp;&middot;&nbsp; <a href="https://github.com/DuckieOverload/transferlearningsophon">Code</a></p>
     </td>
   </tr>
 </table>
